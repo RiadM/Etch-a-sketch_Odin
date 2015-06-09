@@ -1,0 +1,23 @@
+div#canvas {
+	width: 960px;
+	height: 960px;
+	border-color: black;
+	border-style: solid;
+	display: block;
+	position: relative;
+	float: left;
+	
+}
+div#new {
+	display: block;
+	position: relative;
+	float: left;
+	opacity: 0.8;
+}
+
+#button {
+	width: 100px;
+	height: 150px;
+}	
+
+
